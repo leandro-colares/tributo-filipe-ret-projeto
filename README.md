@@ -1,7 +1,6 @@
 # Tributo ao Filipe Ret 🎶🎤
 
-Este projeto é uma página de tributo dedicada ao rapper, cantor, compositor e empresário Filipe Ret. A página contém informações sobre sua biografia, citações inspiradoras, curiosidades e imagens do artista em destaque. É uma ótima maneira de conhecer um pouco mais sobre a trajetória do Filipe Ret, desde seus primeiros anos no Rio de Janeiro até sua ascensão no cenário musical brasileiro.
-
+Este projeto, feito por mim, um grande fã do artista, é uma página de tributo dedicada ao rapper, cantor, compositor e empresário Filipe Ret. A página contém informações sobre sua biografia, citações inspiradoras, curiosidades e imagens do artista em destaque. 
 ## Como acessar 🔗
 
 Você pode visualizar o projeto ao vivo através do link abaixo:
