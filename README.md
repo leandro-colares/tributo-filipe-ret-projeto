@@ -5,7 +5,7 @@ Este projeto, feito por mim, um grande fã do artista, é uma página de tributo
 
 Você pode visualizar o projeto ao vivo através do link abaixo:
 
-[Visualizar o projeto]([https://leandro-colares.github.io/tributo-filipe-ret/](https://leandro-colares.github.io/tributo-filipe-ret-projeto/) 🌐
+[Visualizar o projeto](https://leandro-colares.github.io/tributo-filipe-ret-projeto/)🌐
 
 ## Funcionalidades 🌟
 - **Informações biográficas**: Detalhes sobre a vida e a carreira de Filipe Ret.
